@@ -12,7 +12,7 @@ const Navbar = () => {
         <div className="flex h-14 items-center justify-between border-b border-orange-500">
           <Link href="/" className="flex z-40 font-bold">
             <p className="text-orange-500 text-2xl">
-              quill<span className="text-black">.</span>
+              scribbe<span className="text-black">.</span>
             </p>
           </Link>
 
