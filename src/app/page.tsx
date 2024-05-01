@@ -94,7 +94,7 @@ export default function Home() {
         {/* steps */}
         <ol className="my-8 space-y-4 pt-8 md:flex md:space-x-12 md:space-y-0">
           <li className="md:flex-1">
-            <div className="flex flex-col space-y-2 border-l-4 border-orange-500 py-2 pl-4 md:border-l-0 md:border-t-2 md:pb-0 md:pl-0 md:pt-4">
+            <div className="flex flex-col space-y-2 border-l-4 border-gray-500 py-2 pl-4 md:border-l-0 md:border-t-2 md:pb-0 md:pl-0 md:pt-4">
               <span className="text-sm font-medium text-orange-500">
                 Step 1
               </span>
@@ -114,7 +114,7 @@ export default function Home() {
             </div>
           </li>
           <li className="md:flex-1">
-            <div className="flex flex-col space-y-2 border-l-4 border-orange-500 py-2 pl-4 md:border-l-0 md:border-t-2 md:pb-0 md:pl-0 md:pt-4">
+            <div className="flex flex-col space-y-2 border-l-4 border-gray-500 py-2 pl-4 md:border-l-0 md:border-t-2 md:pb-0 md:pl-0 md:pt-4">
               <span className="text-sm font-medium text-orange-500">
                 Step 2
               </span>
@@ -128,7 +128,7 @@ export default function Home() {
             </div>
           </li>
           <li className="md:flex-1">
-            <div className="flex flex-col space-y-2 border-l-4 border-orange-500 py-2 pl-4 md:border-l-0 md:border-t-2 md:pb-0 md:pl-0 md:pt-4">
+            <div className="flex flex-col space-y-2 border-l-4 border-gray-500 py-2 pl-4 md:border-l-0 md:border-t-2 md:pb-0 md:pl-0 md:pt-4">
               <span className="text-sm font-medium text-orange-500">
                 Step 3
               </span>
